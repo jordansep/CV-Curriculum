@@ -5,14 +5,17 @@
   Nacionalidad: 
     Argentina ( Cordoba )
   
-  Edad: 21 Años
-    
-Desarrollador Frontend con React.
+  Edad: 24 Años
+
+ Estudios: 
+  * Analista de Sistemas Universitario.
+  * Desarrollador Frontend con React.
+
  Tecnologias: 
   * HTML
   * CSS
   * Javascript
-  * React JS
+  * C#
 
  Soft Skills: 
   * Proactivo
