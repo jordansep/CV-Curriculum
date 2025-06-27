@@ -8,7 +8,7 @@
   Edad: 24 Años
 
  Estudios: 
-  * Analista de Sistemas Universitario.
+  * Analista de Sistemas Universitario: Condicion Regular
   * Desarrollador Frontend con React.
 
  Tecnologias: 
